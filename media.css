@@ -1,0 +1,200 @@
+@media screen and (max-width: 1400px) {
+  #profile {
+    margin-bottom: 6rem;
+  }
+  .about-containers {
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  #desktop-nav {
+    display: none;
+  }
+  #hamburger-nav {
+    display: flex;
+  }
+  #profile,
+  .section-container {
+    display: block;
+  }
+  .arrow {
+    display: none;
+  }
+  .section,
+  .section-container {
+    height: fit-content;
+  }
+  section {
+    margin: 0 5%;
+  }
+
+
+
+
+
+
+
+
+
+
+  nav {
+    height: 13vh;
+  }
+  #profile {
+    height: 45vh;
+  }
+  .btn {
+    padding: 0.5rem;
+    font-weight: 500;
+  }
+  .icon {
+    height: 1.5rem;
+  }
+  .logo {
+    font-size: 1.4rem;
+  }
+  .menu-links a {
+    font-size: 1rem;
+  }
+  img {
+    height: 250px;
+  }
+  .section__pic-container {
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+  }
+  .title {
+    font-size: 1.6rem;
+  }
+  .section__text p {
+    font-size: 15px;
+  }
+  .about-pic {
+    height: 200px;
+    margin-top: 15px;
+  }
+  .details-container {
+    padding: 0.6rem;
+  }
+  .about-details-container {
+    flex-direction: column-reverse;
+    padding-top: 15px;
+  }
+  .project-sub-title {
+    font-size: 1.3rem;
+  }
+  section {
+    padding: 0 2vh;
+  }
+  #projects {
+    padding-top: 50px;
+  }
+  .info {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 11;
+    overflow: hidden;
+  }
+  .about-containers {
+    margin-top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  #contact {
+    padding-top: 0;
+  }
+  .contact-info-upper-container {
+    padding: 0;
+    flex-wrap: wrap;
+    margin: 23px 0;
+  }
+  .contact-info-container {
+    margin: 0.3rem;
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 320px) {
+  nav {
+    height: 13vh;
+  }
+  #profile {
+    height: 45vh;
+  }
+  .btn {
+    padding: 0.5rem;
+    font-weight: 500;
+  }
+  .icon {
+    height: 1.5rem;
+  }
+  .logo {
+    font-size: 1.4rem;
+  }
+  .menu-links a {
+    font-size: 1rem;
+  }
+  img {
+    height: 250px;
+  }
+  .section__pic-container {
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+  }
+  .title {
+    font-size: 1.6rem;
+  }
+  .section__text p {
+    font-size: 15px;
+  }
+  .about-pic {
+    height: 200px;
+    margin-top: 15px;
+  }
+  .details-container {
+    padding: 0.6rem;
+  }
+  .about-details-container {
+    flex-direction: column-reverse;
+    padding-top: 15px;
+  }
+  .project-sub-title {
+    font-size: 1.3rem;
+  }
+  section {
+    padding: 0 2vh;
+  }
+  #projects {
+    padding-top: 50px;
+  }
+  .info {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 11;
+    overflow: hidden;
+  }
+  .about-containers {
+    margin-top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  #contact {
+    padding-top: 0;
+  }
+  .contact-info-upper-container {
+    padding: 0;
+    flex-wrap: wrap;
+    margin: 23px 0;
+  }
+  .contact-info-container {
+    margin: 0.3rem;
+    font-size: 12px;
+  }
+}
