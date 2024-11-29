@@ -125,7 +125,7 @@ section {
   display: flex;
   justify-content: center;
   height: 80vh;
-  gap: 2rem;
+  gap: 6rem;
 }
 .section__pic-container {
   display: flex;
